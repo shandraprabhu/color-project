@@ -11,7 +11,7 @@ createRoot(document.getElementById("root")).render(
     {/* <App /> */}
     {/* <TwoWayBinding></TwoWayBinding> */}
   
-    <TimerComponent></TimerComponent>
+   </TimerComponent>
     {/*  <Changer/>   */}
   </StrictMode>
 );
