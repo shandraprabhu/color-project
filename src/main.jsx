@@ -10,8 +10,8 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     {/* <App /> */}
     {/* <TwoWayBinding></TwoWayBinding> */}
-    <Changer/>  
-    
-    {/*<TimerComponent></TimerComponent> */}
+  
+    <TimerComponent></TimerComponent>
+    {/*  <Changer/>   */}
   </StrictMode>
 );
